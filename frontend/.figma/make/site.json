@@ -1,0 +1,12 @@
+{
+  "title": "RouteCraft | 여행 플랜 관리",
+  "language": "ko",
+  "description": "Create an account, organize travel plans, and keep your places and trip notes together.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

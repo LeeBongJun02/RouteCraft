@@ -1,0 +1,19 @@
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output
+**/node_modules/
+frontend/dist/
+frontend/build/
+backend/target/
+
+# Local application data
+backend/data/
+*.log
+logs/
+
+# Local editor state
+.idea/
+*.iml
